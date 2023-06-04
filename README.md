@@ -1,1 +1,2 @@
-# Sign-Language-Recognition
+# Sign-Language-Recognition using YOLOv8
+
