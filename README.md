@@ -4,7 +4,7 @@ The project aims to create a system to understand sign language gestures. It use
 
 
 ## Dataset
-The American Sign Language Letters Dataset used was obtained from roboflow [roboflow ](https://public.roboflow.com/). it contains 1728 images 
+The American Sign Language Letters Dataset used was obtained from [roboflow ](https://public.roboflow.com/). it contains 1728 images 
 
 ## Model
 yolo8n.pt was used to train the data for 100 epochs .if you want to retrain the model run the command
