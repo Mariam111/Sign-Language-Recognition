@@ -1,3 +1,5 @@
 streamlit==1.23.1
 ultralytics==8.0.112
 opencv-python==4.7.0.72
+PyOpenGL==3.1.7
+PyOpenGL-accelerate==3.1.7
