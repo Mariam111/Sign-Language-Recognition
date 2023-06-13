@@ -5,3 +5,4 @@ PyOpenGL==3.1.7
 PyOpenGL-accelerate==3.1.7
 opencv-python-headless
 opencv_contrib_python
+libgtk2.0-dev
